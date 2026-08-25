@@ -8,7 +8,7 @@
 ---
 
 ### Sobre mim:
-
+- Graduando Análise de Desenvolvimento de Sistemas | Fatec
 - Atualmente estudando: **Python e C++**
 - LinkedIn: [João Victor de Oliveira](https://www.linkedin.com/in/joaovictor)
 
