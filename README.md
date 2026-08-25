@@ -1,7 +1,8 @@
 
 # Opa! João Victor aqui 👋
 
-### Analista de Sistemas
+### Estudante de Análise de Desenvolvimento de Sistemas 
+• São Paulo, Brasil
 
 ![Profile views](https://komarev.com/ghpvc/?username=joaovictor&color=0e75b6&style=flat)
 
@@ -10,6 +11,8 @@
 ### Sobre mim:
 - Graduando Análise de Desenvolvimento de Sistemas | Fatec
 - Atualmente estudando: **Python e C++**
+- Idioma: Inglês Técnico | Português Nativo
+
 - LinkedIn: [João Victor de Oliveira](https://www.linkedin.com/in/joaovictor)
 
 ---
