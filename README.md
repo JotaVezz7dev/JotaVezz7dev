@@ -1,20 +1,20 @@
 
 # Opa! João Victor aqui 👋
 
-### 👨‍💻 Analista de Sistemas
+### Analista de Sistemas
 
 ![Profile views](https://komarev.com/ghpvc/?username=joaovictor&color=0e75b6&style=flat)
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim:
 
-- 📚 Atualmente estudando: **Python e C++**
-- 🔗 LinkedIn: [João Victor de Oliveira](https://www.linkedin.com/in/joaovictor)
+- Atualmente estudando: **Python e C++**
+- LinkedIn: [João Victor de Oliveira](https://www.linkedin.com/in/joaovictor)
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p left>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
