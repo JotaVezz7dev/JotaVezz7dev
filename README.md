@@ -11,7 +11,7 @@
 ### Sobre mim:
 - Graduando Análise de Desenvolvimento de Sistemas | Fatec
 - Atualmente estudando: **Python e C++**
-- Idioma: Inglês Técnico | Português Nativo
+- Idiomas: Inglês Técnico | Português Nativo
 
 - LinkedIn: [João Victor de Oliveira](https://www.linkedin.com/in/joaovictor)
 
