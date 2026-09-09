@@ -13,8 +13,6 @@
 - Atualmente estudando: **Python e C++**
 - Idiomas: Inglês Técnico | Português Nativo
 
-- LinkedIn: [João Victor de Oliveira](https://www.linkedin.com/in/joaovictor)
-
 ---
 
 ### Tecnologias e Ferramentas:
