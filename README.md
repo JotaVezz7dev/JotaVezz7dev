@@ -4,7 +4,7 @@
 ### Estudante de Análise de Desenvolvimento de Sistemas 
 • São Paulo, Brasil
 
-![Profile views](https://komarev.com/ghpvc/?username=joaovictor&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=JotaVezz7dev&color=0e75b6&style=flat)
 
 ---
 
